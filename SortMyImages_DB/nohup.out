@@ -1,0 +1,45 @@
+[2020-10-02 07:51:12 -0700] [136930] [INFO] Starting gunicorn 20.0.4
+[2020-10-02 07:51:12 -0700] [136930] [ERROR] Connection in use: ('localhost', 8000)
+[2020-10-02 07:51:12 -0700] [136930] [ERROR] Retrying in 1 second.
+[2020-10-02 07:51:13 -0700] [136930] [ERROR] Connection in use: ('localhost', 8000)
+[2020-10-02 07:51:13 -0700] [136930] [ERROR] Retrying in 1 second.
+[2020-10-02 07:51:14 -0700] [136930] [ERROR] Connection in use: ('localhost', 8000)
+[2020-10-02 07:51:14 -0700] [136930] [ERROR] Retrying in 1 second.
+[2020-10-02 07:51:15 -0700] [136930] [ERROR] Connection in use: ('localhost', 8000)
+[2020-10-02 07:51:15 -0700] [136930] [ERROR] Retrying in 1 second.
+[2020-10-02 07:51:16 -0700] [136930] [ERROR] Connection in use: ('localhost', 8000)
+[2020-10-02 07:51:16 -0700] [136930] [ERROR] Retrying in 1 second.
+[2020-10-02 07:51:17 -0700] [136930] [ERROR] Can't connect to ('localhost', 8000)
+[2020-10-02 07:52:23 -0700] [137118] [INFO] Starting gunicorn 20.0.4
+[2020-10-02 07:52:23 -0700] [137118] [ERROR] Connection in use: ('localhost', 8000)
+[2020-10-02 07:52:23 -0700] [137118] [ERROR] Retrying in 1 second.
+[2020-10-02 07:52:24 -0700] [137118] [ERROR] Connection in use: ('localhost', 8000)
+[2020-10-02 07:52:24 -0700] [137118] [ERROR] Retrying in 1 second.
+[2020-10-02 07:52:25 -0700] [137118] [ERROR] Connection in use: ('localhost', 8000)
+[2020-10-02 07:52:25 -0700] [137118] [ERROR] Retrying in 1 second.
+[2020-10-02 07:52:26 -0700] [137118] [ERROR] Connection in use: ('localhost', 8000)
+[2020-10-02 07:52:26 -0700] [137118] [ERROR] Retrying in 1 second.
+[2020-10-02 07:52:27 -0700] [137118] [ERROR] Connection in use: ('localhost', 8000)
+[2020-10-02 07:52:27 -0700] [137118] [ERROR] Retrying in 1 second.
+[2020-10-02 07:52:28 -0700] [137118] [ERROR] Can't connect to ('localhost', 8000)
+[2020-10-02 07:53:45 -0700] [137314] [INFO] Starting gunicorn 20.0.4
+[2020-10-02 07:53:45 -0700] [137314] [INFO] Listening at: http://127.0.0.1:8000 (137314)
+[2020-10-02 07:53:45 -0700] [137314] [INFO] Using worker: sync
+[2020-10-02 07:53:45 -0700] [137318] [INFO] Booting worker with pid: 137318
+[2020-10-02 07:53:45 -0700] [137319] [INFO] Booting worker with pid: 137319
+Not Found: /sorterdb/upload_training/
+Not Found: /sorterdb/upload_training/
+Not Found: /sorterdb/upload_training/
+Not Found: /sorterdb/upload_training/
+Not Found: /sorterdb/upload_training/
+Not Found: /sorterdb/upload_training/
+Not Found: /sorterdb/upload_training/
+Not Found: /sorterdb/upload_training/
+Not Found: /sorterdb/upload_training/
+Not Found: /sorterdb/upload_training/
+Not Found: /sorterdb/upload_training/
+Not Found: /sorterdb/upload_training/
+[2020-10-02 07:56:48 -0700] [137314] [INFO] Handling signal: int
+[2020-10-02 14:56:48 +0000] [137319] [INFO] Worker exiting (pid: 137319)
+[2020-10-02 14:56:48 +0000] [137318] [INFO] Worker exiting (pid: 137318)
+[2020-10-02 07:56:48 -0700] [137314] [INFO] Shutting down: Master
